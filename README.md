@@ -7,6 +7,7 @@ Fundador da **Apolo Informática**, serviços de TI para empresas em Pato Branco
 - 🌱 Estudando e aplicando automação de infraestrutura: Terraform, Vagrant, Shell Script
 - ⚡ Interesses atuais: IA aplicada, redes Cisco, administração Windows Server e Active Directory
 - 📍 Pato Branco, PR — Brasil
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexsilvan84/)
 
 O que eu construo costuma nascer de um problema do dia a dia no suporte — e vira
 ferramenta quando percebo que outra pessoa teria o mesmo problema. Tudo aqui é
@@ -55,3 +56,7 @@ Sem serviço pago, sem chave de acesso, sem mandar áudio para lugar nenhum.
 - **Sem dependência desnecessária.** Se dá para fazer com o que já existe na
   máquina, não entra biblioteca.
 - **O porquê junto com o quê.** Meus READMEs explicam a decisão, não só o comando.
+
+---
+
+Para falar comigo: [linkedin.com/in/alexsilvan84](https://www.linkedin.com/in/alexsilvan84/)
