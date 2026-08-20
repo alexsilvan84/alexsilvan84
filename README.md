@@ -47,6 +47,14 @@ abordagens no mesmo ambiente.
 
 `Vagrant` · `VirtualBox` · `Puppet` · `Ansible` · [guia passo a passo](https://github.com/alexsilvan84/laboratorio-infra/blob/main/docs/guia.md)
 
+### ☁️ [Servidor na AWS com Terraform](https://github.com/alexsilvan84/terraform-aws-servidor)
+
+Um `terraform apply` cria a rede, o servidor e o monitoramento: VPC, sub-rede,
+gateway, security group e uma EC2 que sobe com Nginx e com o Sentinela
+monitorando ela mesma. Nenhum comando digitado no servidor.
+
+`Terraform` · `AWS` · `EC2` · `VPC` · [guia passo a passo](https://github.com/alexsilvan84/terraform-aws-servidor/blob/main/docs/guia.md)
+
 ---
 
 ## Laboratórios e estudos
@@ -54,7 +62,6 @@ abordagens no mesmo ambiente.
 | Repositório | Sobre |
 | --- | --- |
 | [Administração de Redes Microsoft Windows](https://github.com/alexsilvan84/Administracao-de-Redes-Microsoft-Windows) | projeto de rede corporativa com dois controladores de domínio, AD DS e DNS |
-| [Terraform](https://github.com/alexsilvan84/terraform) | infraestrutura na AWS como código |
 
 ---
 
