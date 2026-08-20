@@ -55,13 +55,15 @@ monitorando ela mesma. Nenhum comando digitado no servidor.
 
 `Terraform` · `AWS` · `EC2` · `VPC` · [guia passo a passo](https://github.com/alexsilvan84/terraform-aws-servidor/blob/main/docs/guia.md)
 
----
+### 🖥️ [Laboratório de Active Directory](https://github.com/alexsilvan84/laboratorio-active-directory)
 
-## Laboratórios e estudos
+O projeto de rede corporativa da pós virando máquinas de verdade: dois
+controladores de domínio Windows Server, com os setores da empresa como
+unidades organizacionais, grupos, usuários e políticas de grupo.
 
-| Repositório | Sobre |
-| --- | --- |
-| [Administração de Redes Microsoft Windows](https://github.com/alexsilvan84/Administracao-de-Redes-Microsoft-Windows) | projeto de rede corporativa com dois controladores de domínio, AD DS e DNS |
+Derrube o controlador primário e veja o domínio continuar de pé.
+
+`Windows Server` · `Active Directory` · `PowerShell` · `Vagrant` · [guia passo a passo](https://github.com/alexsilvan84/laboratorio-active-directory/blob/main/docs/guia.md)
 
 ---
 
