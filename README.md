@@ -45,7 +45,7 @@ provisionamento sem quebrar nada de verdade. Cada uma provisionada por uma
 ferramenta diferente — shell, Puppet e Ansible — para comparar as três
 abordagens no mesmo ambiente.
 
- ·  ·  ·  · [guia passo a passo](https://github.com/alexsilvan84/laboratorio-infra/blob/main/docs/guia.md)
+`Vagrant` · `VirtualBox` · `Puppet` · `Ansible` · [guia passo a passo](https://github.com/alexsilvan84/laboratorio-infra/blob/main/docs/guia.md)
 
 ---
 
