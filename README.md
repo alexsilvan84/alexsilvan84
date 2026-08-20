@@ -38,6 +38,15 @@ Sem serviço pago, sem chave de acesso, sem mandar áudio para lugar nenhum.
 
 `Python` · `faster-whisper` · instalação em dois cliques
 
+### 🧪 [Laboratório de infraestrutura](https://github.com/alexsilvan84/laboratorio-infra)
+
+Três máquinas virtuais que sobem com **um comando**, para estudar
+provisionamento sem quebrar nada de verdade. Cada uma provisionada por uma
+ferramenta diferente — shell, Puppet e Ansible — para comparar as três
+abordagens no mesmo ambiente.
+
+ ·  ·  ·  · [guia passo a passo](https://github.com/alexsilvan84/laboratorio-infra/blob/main/docs/guia.md)
+
 ---
 
 ## Laboratórios e estudos
@@ -45,7 +54,6 @@ Sem serviço pago, sem chave de acesso, sem mandar áudio para lugar nenhum.
 | Repositório | Sobre |
 | --- | --- |
 | [Administração de Redes Microsoft Windows](https://github.com/alexsilvan84/Administracao-de-Redes-Microsoft-Windows) | projeto de rede corporativa com dois controladores de domínio, AD DS e DNS |
-| [Vagrant](https://github.com/alexsilvan84/Vagrant) | ambientes provisionados com Puppet e Ansible |
 | [Terraform](https://github.com/alexsilvan84/terraform) | infraestrutura na AWS como código |
 
 ---
