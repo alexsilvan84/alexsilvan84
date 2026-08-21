@@ -3,7 +3,7 @@
 **Analista de Suporte** com foco em infraestrutura, redes e sistemas.
 Fundador da **Apolo Informática**, serviços de TI para empresas em Pato Branco/PR.
 
-- 🎓 Pós-graduado em Redes de Computadores — UTFPR
+- 🎓 Pós-graduado em Redes de Computadores — UTFPR (Cornélio Procópio)
 - 🌱 Estudando e aplicando automação de infraestrutura: Terraform, Vagrant, Shell Script
 - ⚡ Interesses atuais: IA aplicada, redes Cisco, administração Windows Server e Active Directory
 - 📍 Pato Branco, PR — Brasil
